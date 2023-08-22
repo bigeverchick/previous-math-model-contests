@@ -1,0 +1,32 @@
+\contentsline {section}{\numberline {一、}问题重述}{4}{section.1}%
+\contentsline {subsection}{\numberline {1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题背景}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}问题提出}{4}{subsection.1.2}%
+\contentsline {section}{\numberline {二、}模型假设}{5}{section.2}%
+\contentsline {section}{\numberline {三、}符号说明}{6}{section.3}%
+\contentsline {section}{\numberline {四、}问题分析}{6}{section.4}%
+\contentsline {section}{\numberline {五、}模型的建立与求解}{7}{section.5}%
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题一 \hskip 1em\relax 典型住户电采暖负荷用电行为分析}{7}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}方程组的稳态解性态和参数影响}{7}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}不同室外温度下典型住户电采暖用电行为统计}{10}{subsubsection.5.1.2}%
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}供暖期内成本电量计算}{12}{subsubsection.5.1.3}%
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}问题二\hskip 1em\relax 典型住户电采暖负荷参与功率调节的能力分析}{13}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}室外温度-15度时功率调节时间}{13}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}不同室外温度的可调节功率时间曲线分析}{15}{subsubsection.5.2.2}%
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}问题三\hskip 1em\relax 多个电采暖负荷的调节能力分析}{17}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}6个住户24h温度开关变化及总功率计算}{17}{subsubsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}各时间点功率调节分析}{18}{subsubsection.5.3.2}%
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}在不同室外温度下的分析}{19}{subsubsection.5.3.3}%
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}4}问题四\hskip 1em\relax 住宅区电采暖负荷参与电网调节的能力分析}{21}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}5}问题五\hskip 1em\relax 住宅区电采暖负荷参与电网削峰填谷的收益分析}{23}{subsection.5.5}%
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}600户可提供持续最大向下调节功率值的计算}{23}{subsubsection.5.5.1}%
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}600户可提供持续最大向上调节功率值的计算}{25}{subsubsection.5.5.2}%
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}开关状态受到功率调节影响的分析}{26}{subsubsection.5.5.3}%
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}4}参与削峰填谷后供暖成本计算}{27}{subsubsection.5.5.4}%
+\contentsline {section}{\numberline {六、}分析与展望}{28}{section.6}%
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题六\hskip 1em\relax 温控型负荷参与电网调节展望}{28}{subsection.6.1}%
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}省级区域电采暖负荷参与电网调节的分析}{28}{subsubsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}南方空调的电功率分析}{28}{subsubsection.6.1.2}%
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}模型评价}{28}{subsection.6.2}%
+\contentsline {section}{参考文献}{30}{section*.41}%
+\contentsline {section}{附录 \numberline {A}源码}{31}{appendix.a.A}%
+\contentsline {section}{附录 \numberline {B}部分计算结果}{34}{appendix.a.B}%
